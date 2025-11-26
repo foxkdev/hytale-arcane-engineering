@@ -1,5 +1,7 @@
 # Hytale Arkane Engineering
 
+![Hytale Arkane Engineering](doc/hytale_arcane_engineering.png)
+
 **Arcane Flow System** - A magic energy network mod for Hytale
 
 ## Overview
@@ -39,7 +41,9 @@ src/
 
 ## License
 
-TBD - Awaiting Hytale modding guidelines
+[MIT License - Non-Commercial Use Only](LICENSE.md)
+
+This project is licensed under a modified MIT License that restricts commercial use. See the [LICENSE.md](LICENSE.md) file for full details.
 
 ---
 
